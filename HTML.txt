@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Random Card</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="card">
+    <h1>Hello, World!</h1>
+    <p>This is a randomly styled card using HTML and CSS.</p>
+    <button>Click Me</button>
+  </div>
+</body>
+</html>
