@@ -7,7 +7,7 @@
 </head>
 <body>
   <div class="card">
-    <h1>Hello, World!</h1>
+    <h1>Hello, AWS!</h1>
     <p>This is a randomly styled card using HTML and CSS.</p>
     <button>Click Me</button>
   </div>
